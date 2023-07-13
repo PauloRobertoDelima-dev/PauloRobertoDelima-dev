@@ -1,4 +1,4 @@
-### hello, meet me and contact me 😉😊
+### hello, meet me and me contact😉😊
 
 - 🔭 I’m currently working on AMD Estações de Telecomunicações e Trafego Aereo Ltda.
 - 🌱 I’m currently learning HTML, CSS, JS, SQL, NODE, REACT.
